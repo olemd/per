@@ -1,0 +1,1896 @@
+[848383.522166] ACPI: EC: interrupt blocked
+[865981.675372] ACPI: EC: interrupt unblocked
+[865981.969782] nvme nvme0: D3 entry latency set to 10 seconds
+[865982.004661] nvme nvme0: 8/0/0 default/read/poll queues
+[865982.162806] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[865982.163701] OOM killer enabled.
+[865982.163705] Restarting tasks: Starting
+[865982.167397] Restarting tasks: Done
+[865982.167484] random: crng reseeded on system resumption
+[865982.267116] PM: suspend exit
+[865982.837954] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[865986.800461] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[865986.801082] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[865986.843227] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[865986.843236] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[865986.846345] wlp0s20f3: authenticated
+[865986.847087] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[865986.850737] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=26)
+[865986.852372] wlp0s20f3: associated
+[865986.935518] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[866009.409085] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[866009.940004] PM: suspend entry (s2idle)
+[866010.284748] Filesystems sync: 0.344 seconds
+[866012.300734] Freezing user space processes
+[866012.303222] Freezing user space processes completed (elapsed 0.002 seconds)
+[866012.303231] OOM killer disabled.
+[866012.303233] Freezing remaining freezable tasks
+[866012.305230] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[866012.305238] printk: Suspending console(s) (use no_console_suspend to debug)
+[866012.802854] ACPI: EC: interrupt blocked
+[883125.854527] ACPI: EC: interrupt unblocked
+[883126.172221] nvme nvme0: D3 entry latency set to 10 seconds
+[883126.227325] nvme nvme0: 8/0/0 default/read/poll queues
+[883126.997742] xe 0000:00:02.0: [drm] GT1: excessive init time: 616ms! [status = 0x8002F034, timeouts = 0]
+[883126.997807] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[883127.174839] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[883127.177065] OOM killer enabled.
+[883127.177080] Restarting tasks: Starting
+[883127.184275] Restarting tasks: Done
+[883127.184428] random: crng reseeded on system resumption
+[883127.340496] PM: suspend exit
+[883128.239612] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[883132.473290] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[883132.473610] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[883132.510027] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[883132.510070] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[883132.512029] wlp0s20f3: authenticated
+[883132.513784] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[883132.517567] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=27)
+[883132.519504] wlp0s20f3: associated
+[883132.591087] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[883152.849119] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[883153.201745] PM: suspend entry (s2idle)
+[883153.698190] Filesystems sync: 0.496 seconds
+[883155.251486] Freezing user space processes
+[883155.254587] Freezing user space processes completed (elapsed 0.003 seconds)
+[883155.254594] OOM killer disabled.
+[883155.254596] Freezing remaining freezable tasks
+[883155.256306] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[883155.256312] printk: Suspending console(s) (use no_console_suspend to debug)
+[883155.574587] ACPI: EC: interrupt blocked
+[901058.818763] ACPI: EC: interrupt unblocked
+[901059.112821] nvme nvme0: D3 entry latency set to 10 seconds
+[901059.152634] nvme nvme0: 8/0/0 default/read/poll queues
+[901059.821553] xe 0000:00:02.0: [drm] GT1: excessive init time: 510ms! [status = 0x8002F034, timeouts = 0]
+[901059.821619] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[901060.004462] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[901060.006373] OOM killer enabled.
+[901060.006388] Restarting tasks: Starting
+[901060.013347] Restarting tasks: Done
+[901060.013492] random: crng reseeded on system resumption
+[901060.166380] PM: suspend exit
+[901061.241370] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[901065.486218] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[901065.486544] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[901065.523777] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[901065.523826] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[901065.525840] wlp0s20f3: authenticated
+[901065.529568] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[901065.533298] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=11)
+[901065.535239] wlp0s20f3: associated
+[901065.590210] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[901086.494566] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[901086.898942] PM: suspend entry (s2idle)
+[901087.024853] Filesystems sync: 0.125 seconds
+[901088.661902] Freezing user space processes
+[901089.278102] BTRFS warning (device dm-1): failed to trim 485 block group(s), last error -512
+[901089.279844] BTRFS warning (device dm-1): failed to trim 1 device(s), last error -512
+[901089.283492] Freezing user space processes completed (elapsed 0.621 seconds)
+[901089.283514] OOM killer disabled.
+[901089.283519] Freezing remaining freezable tasks
+[901089.286132] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[901089.286151] printk: Suspending console(s) (use no_console_suspend to debug)
+[901089.814421] ACPI: EC: interrupt blocked
+[918952.424501] ACPI: EC: interrupt unblocked
+[918952.732920] nvme nvme0: D3 entry latency set to 10 seconds
+[918952.785202] nvme nvme0: 8/0/0 default/read/poll queues
+[918953.456575] xe 0000:00:02.0: [drm] GT1: excessive init time: 526ms! [status = 0x8002F034, timeouts = 0]
+[918953.456644] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[918953.642333] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[918953.643807] OOM killer enabled.
+[918953.643820] Restarting tasks: Starting
+[918953.651462] Restarting tasks: Done
+[918953.651585] random: crng reseeded on system resumption
+[918953.811517] PM: suspend exit
+[918954.843457] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[918959.010980] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[918959.011999] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[918959.047979] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[918959.048033] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[918959.050370] wlp0s20f3: authenticated
+[918959.055316] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[918959.061088] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=21)
+[918959.063520] wlp0s20f3: associated
+[918959.131416] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[918979.477170] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[918979.899120] PM: suspend entry (s2idle)
+[918980.032269] Filesystems sync: 0.133 seconds
+[918981.758924] Freezing user space processes
+[918981.761347] Freezing user space processes completed (elapsed 0.002 seconds)
+[918981.761355] OOM killer disabled.
+[918981.761356] Freezing remaining freezable tasks
+[918981.763096] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[918981.763103] printk: Suspending console(s) (use no_console_suspend to debug)
+[918982.126615] ACPI: EC: interrupt blocked
+[918982.217628] ACPI: EC: interrupt unblocked
+[918982.497295] nvme nvme0: D3 entry latency set to 10 seconds
+[918982.530369] nvme nvme0: 8/0/0 default/read/poll queues
+[918982.693189] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[918982.694274] OOM killer enabled.
+[918982.694278] Restarting tasks: Starting
+[918982.697839] Restarting tasks: Done
+[918982.697913] random: crng reseeded on system resumption
+[918982.766240] PM: suspend exit
+[918985.505231] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[918985.505672] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[918985.535166] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[918985.535175] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[918985.539069] wlp0s20f3: authenticated
+[918985.543787] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[918985.546178] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=23)
+[918985.547515] wlp0s20f3: associated
+[918985.644130] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[919009.980858] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[919010.323214] PM: suspend entry (s2idle)
+[919010.371561] Filesystems sync: 0.048 seconds
+[919012.459265] Freezing user space processes
+[919012.461594] Freezing user space processes completed (elapsed 0.002 seconds)
+[919012.461602] OOM killer disabled.
+[919012.461603] Freezing remaining freezable tasks
+[919012.463403] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[919012.463411] printk: Suspending console(s) (use no_console_suspend to debug)
+[919012.962469] ACPI: EC: interrupt blocked
+[936555.720828] ACPI: EC: interrupt unblocked
+[936556.034594] nvme nvme0: D3 entry latency set to 10 seconds
+[936556.067518] nvme nvme0: 8/0/0 default/read/poll queues
+[936556.756485] xe 0000:00:02.0: [drm] GT1: excessive init time: 523ms! [status = 0x8002F034, timeouts = 0]
+[936556.756550] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[936556.934593] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[936556.936290] OOM killer enabled.
+[936556.936304] Restarting tasks: Starting
+[936556.943792] Restarting tasks: Done
+[936556.943918] random: crng reseeded on system resumption
+[936557.122430] PM: suspend exit
+[936558.162718] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[936562.476678] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[936562.476999] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[936562.516547] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[936562.516597] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[936562.519033] wlp0s20f3: authenticated
+[936562.522530] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[936562.527370] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=28)
+[936562.529568] wlp0s20f3: associated
+[936562.630494] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[936583.122487] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[936583.650838] PM: suspend entry (s2idle)
+[936583.843345] Filesystems sync: 0.192 seconds
+[936586.539324] Freezing user space processes
+[936586.543448] Freezing user space processes completed (elapsed 0.004 seconds)
+[936586.543463] OOM killer disabled.
+[936586.543466] Freezing remaining freezable tasks
+[936586.546569] Freezing remaining freezable tasks completed (elapsed 0.003 seconds)
+[936586.546583] printk: Suspending console(s) (use no_console_suspend to debug)
+[936587.046251] ACPI: EC: interrupt blocked
+[955482.087315] ACPI: EC: interrupt unblocked
+[955482.393824] nvme nvme0: D3 entry latency set to 10 seconds
+[955482.432890] nvme nvme0: 8/0/0 default/read/poll queues
+[955483.016087] xe 0000:00:02.0: [drm] GT1: excessive init time: 445ms! [status = 0x8002F034, timeouts = 0]
+[955483.016151] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[955483.202886] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[955483.204318] OOM killer enabled.
+[955483.204332] Restarting tasks: Starting
+[955483.212310] Restarting tasks: Done
+[955483.212434] random: crng reseeded on system resumption
+[955483.362600] PM: suspend exit
+[955484.247612] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[955488.539092] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[955488.539430] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[955488.578838] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[955488.578882] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[955488.581427] wlp0s20f3: authenticated
+[955488.584021] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[955488.588966] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=25)
+[955488.590956] wlp0s20f3: associated
+[955488.640434] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[955508.881923] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[955509.435161] PM: suspend entry (s2idle)
+[955510.363653] Filesystems sync: 0.928 seconds
+[955518.761173] Freezing user space processes
+[955518.764703] Freezing user space processes completed (elapsed 0.003 seconds)
+[955518.764714] OOM killer disabled.
+[955518.764717] Freezing remaining freezable tasks
+[955518.766894] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[955518.766904] printk: Suspending console(s) (use no_console_suspend to debug)
+[955519.271357] ACPI: EC: interrupt blocked
+[976445.200451] ACPI: EC: interrupt unblocked
+[976445.521175] nvme nvme0: D3 entry latency set to 10 seconds
+[976445.562163] nvme nvme0: 8/0/0 default/read/poll queues
+[976446.420232] xe 0000:00:02.0: [drm] GT1: excessive init time: 677ms! [status = 0x8002F034, timeouts = 0]
+[976446.420301] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[976446.604999] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[976446.607070] OOM killer enabled.
+[976446.607083] Restarting tasks: Starting
+[976446.612759] Restarting tasks: Done
+[976446.612909] random: crng reseeded on system resumption
+[976446.769490] PM: suspend exit
+[976447.642810] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[976451.877579] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[976451.878026] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[976451.915234] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[976451.915271] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[976451.917425] wlp0s20f3: authenticated
+[976451.922661] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[976451.926626] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=16)
+[976451.929382] wlp0s20f3: associated
+[976451.959278] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[976465.445104] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[976466.049319] PM: suspend entry (s2idle)
+[976466.768065] Filesystems sync: 0.718 seconds
+[976475.816695] Freezing user space processes
+[976475.822996] Freezing user space processes completed (elapsed 0.006 seconds)
+[976475.823033] OOM killer disabled.
+[976475.823041] Freezing remaining freezable tasks
+[976475.827075] Freezing remaining freezable tasks completed (elapsed 0.004 seconds)
+[976475.827111] printk: Suspending console(s) (use no_console_suspend to debug)
+[976476.375023] ACPI: EC: interrupt blocked
+[994630.604914] ACPI: EC: interrupt unblocked
+[994630.935535] nvme nvme0: D3 entry latency set to 10 seconds
+[994630.971452] nvme nvme0: 8/0/0 default/read/poll queues
+[994631.771222] xe 0000:00:02.0: [drm] GT1: excessive init time: 585ms! [status = 0x8002F034, timeouts = 0]
+[994631.771287] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[994631.957168] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[994631.964799] OOM killer enabled.
+[994631.964815] Restarting tasks: Starting
+[994631.971776] Restarting tasks: Done
+[994631.971935] random: crng reseeded on system resumption
+[994632.125188] PM: suspend exit
+[994632.898330] wireplumber[205078]: segfault at 13000000ed ip 00007ff00a183bf1 sp 00007ffc61f94ee8 error 4 in libgobject-2.0.so.0.8400.4[3cbf1,7ff00a157000+35000] likely on CPU 7 (core 35, socket 0)
+[994632.898412] Code: b5 57 02 00 48 8b 34 e8 e9 5d ff ff ff 90 66 66 2e 0f 1f 84 00 00 00 00 00 f3 0f 1e fa 48 85 ff 74 47 48 8b 07 48 85 c0 74 3f <48> 8b 00 48 3d fc 03 00 00 77 2c 48 8d 15 7d 57 02 00 48 c1 e8 02
+[994633.002563] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[994637.264613] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[994637.265063] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[994637.300292] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[994637.300333] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[994637.302736] wlp0s20f3: authenticated
+[994637.307150] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[994637.310761] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=13)
+[994637.316665] wlp0s20f3: associated
+[994637.384188] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[994650.300326] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[994650.962177] PM: suspend entry (s2idle)
+[994651.827702] Filesystems sync: 0.865 seconds
+[994662.671806] Freezing user space processes
+[994662.677975] Freezing user space processes completed (elapsed 0.006 seconds)
+[994662.678012] OOM killer disabled.
+[994662.678021] Freezing remaining freezable tasks
+[994662.681966] Freezing remaining freezable tasks completed (elapsed 0.003 seconds)
+[994662.682001] printk: Suspending console(s) (use no_console_suspend to debug)
+[994663.224628] ACPI: EC: interrupt blocked
+[1016006.795635] ACPI: EC: interrupt unblocked
+[1016007.109930] nvme nvme0: D3 entry latency set to 10 seconds
+[1016007.164341] nvme nvme0: 8/0/0 default/read/poll queues
+[1016008.000278] xe 0000:00:02.0: [drm] GT1: excessive init time: 631ms! [status = 0x8002F034, timeouts = 0]
+[1016008.000343] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1016008.183046] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1016008.184750] OOM killer enabled.
+[1016008.184763] Restarting tasks: Starting
+[1016008.189322] Restarting tasks: Done
+[1016008.189443] random: crng reseeded on system resumption
+[1016008.346041] PM: suspend exit
+[1016009.227585] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1016009.686358] wireplumber[363337]: segfault at 13000000f0 ip 00007fd697b87bd1 sp 00007fff45c82938 error 4 in libgobject-2.0.so.0.8600.0[3dbd1,7fd697b5a000+36000] likely on CPU 0 (core 0, socket 0)
+[1016009.686429] Code: d5 57 02 00 48 8b 34 e8 e9 44 ff ff ff 90 66 66 2e 0f 1f 84 00 00 00 00 00 f3 0f 1e fa 48 85 ff 74 47 48 8b 07 48 85 c0 74 3f <48> 8b 00 48 3d fc 03 00 00 77 2c 48 8d 15 9d 57 02 00 48 c1 e8 02
+[1016013.401059] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1016013.401398] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1016013.438809] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1016013.438861] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1016013.441031] wlp0s20f3: authenticated
+[1016013.445506] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1016013.449284] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=12)
+[1016013.451361] wlp0s20f3: associated
+[1016013.554023] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1016024.462638] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1016025.073270] PM: suspend entry (s2idle)
+[1016025.609170] Filesystems sync: 0.535 seconds
+[1016035.074642] Freezing user space processes
+[1016035.080947] Freezing user space processes completed (elapsed 0.006 seconds)
+[1016035.080984] OOM killer disabled.
+[1016035.080992] Freezing remaining freezable tasks
+[1016035.085015] Freezing remaining freezable tasks completed (elapsed 0.004 seconds)
+[1016035.085052] printk: Suspending console(s) (use no_console_suspend to debug)
+[1016035.633949] ACPI: EC: interrupt blocked
+[1035149.752047] ACPI: EC: interrupt unblocked
+[1035150.081970] nvme nvme0: D3 entry latency set to 10 seconds
+[1035150.129131] nvme nvme0: 8/0/0 default/read/poll queues
+[1035150.853841] xe 0000:00:02.0: [drm] GT1: excessive init time: 538ms! [status = 0x8002F034, timeouts = 0]
+[1035150.853904] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1035151.032086] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1035151.034036] OOM killer enabled.
+[1035151.034049] Restarting tasks: Starting
+[1035151.041272] Restarting tasks: Done
+[1035151.041399] random: crng reseeded on system resumption
+[1035151.195583] PM: suspend exit
+[1035152.067953] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1035154.066496] wireplumber[363601]: segfault at 13000000f0 ip 00007f47742b8bd1 sp 00007ffe1ae90238 error 4 in libgobject-2.0.so.0.8600.0[3dbd1,7f477428b000+36000] likely on CPU 0 (core 0, socket 0)
+[1035154.066575] Code: d5 57 02 00 48 8b 34 e8 e9 44 ff ff ff 90 66 66 2e 0f 1f 84 00 00 00 00 00 f3 0f 1e fa 48 85 ff 74 47 48 8b 07 48 85 c0 74 3f <48> 8b 00 48 3d fc 03 00 00 77 2c 48 8d 15 9d 57 02 00 48 c1 e8 02
+[1035156.069599] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1035156.069966] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1035156.106399] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1035156.106455] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1035156.108391] wlp0s20f3: authenticated
+[1035156.116057] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1035156.119896] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=21)
+[1035156.122885] wlp0s20f3: associated
+[1035156.144094] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1035169.232851] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1035169.790300] PM: suspend entry (s2idle)
+[1035170.910867] Filesystems sync: 1.120 seconds
+[1035171.770255] xe 0000:00:02.0: [drm] GT1: excessive init time: 674ms! [status = 0x8002F034, timeouts = 0]
+[1035171.770327] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1035182.663541] Freezing user space processes
+[1035182.670052] Freezing user space processes completed (elapsed 0.006 seconds)
+[1035182.670089] OOM killer disabled.
+[1035182.670097] Freezing remaining freezable tasks
+[1035182.674050] Freezing remaining freezable tasks completed (elapsed 0.003 seconds)
+[1035182.674087] printk: Suspending console(s) (use no_console_suspend to debug)
+[1035183.208495] ACPI: EC: interrupt blocked
+[1055356.741152] ACPI: EC: interrupt unblocked
+[1055357.030603] nvme nvme0: D3 entry latency set to 10 seconds
+[1055357.062173] nvme nvme0: 8/0/0 default/read/poll queues
+[1055357.658384] xe 0000:00:02.0: [drm] GT1: excessive init time: 536ms! [status = 0x8002F034, timeouts = 0]
+[1055357.658432] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1055357.831766] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1055357.832473] OOM killer enabled.
+[1055357.832478] Restarting tasks: Starting
+[1055357.835370] Restarting tasks: Done
+[1055357.835443] random: crng reseeded on system resumption
+[1055357.927769] PM: suspend exit
+[1055358.543445] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1055359.098338] wireplumber[363830]: segfault at 13000000f0 ip 00007efe9bb5abd1 sp 00007ffe06e4e1e8 error 4 in libgobject-2.0.so.0.8600.0[3dbd1,7efe9bb2d000+36000] likely on CPU 4 (core 32, socket 0)
+[1055359.098383] Code: d5 57 02 00 48 8b 34 e8 e9 44 ff ff ff 90 66 66 2e 0f 1f 84 00 00 00 00 00 f3 0f 1e fa 48 85 ff 74 47 48 8b 07 48 85 c0 74 3f <48> 8b 00 48 3d fc 03 00 00 77 2c 48 8d 15 9d 57 02 00 48 c1 e8 02
+[1055362.452371] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1055362.452903] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1055362.486073] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1055362.486098] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1055362.489063] wlp0s20f3: authenticated
+[1055362.490398] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1055362.493822] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=23)
+[1055362.495548] wlp0s20f3: associated
+[1055362.598803] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1055373.279753] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1055373.746507] PM: suspend entry (s2idle)
+[1055373.994545] Filesystems sync: 0.248 seconds
+[1055376.784287] Freezing user space processes
+[1055376.787885] Freezing user space processes completed (elapsed 0.003 seconds)
+[1055376.787895] OOM killer disabled.
+[1055376.787897] Freezing remaining freezable tasks
+[1055376.790109] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1055376.790119] printk: Suspending console(s) (use no_console_suspend to debug)
+[1055376.975509] mhi-pci-generic 0000:08:00.0: failed to suspend device: -16
+[1055376.975519] mhi-pci-generic 0000:08:00.0: PM: pci_pm_suspend(): mhi_pci_suspend [mhi_pci_generic] returns -16
+[1055376.975534] mhi-pci-generic 0000:08:00.0: PM: dpm_run_callback(): pci_pm_suspend returns -16
+[1055376.975540] mhi-pci-generic 0000:08:00.0: PM: failed to suspend async: error -16
+[1055377.093959] PM: Some devices failed to suspend, or early wake event detected
+[1055377.101286] nvme nvme0: D3 entry latency set to 10 seconds
+[1055377.105291] nvme nvme0: 8/0/0 default/read/poll queues
+[1055377.213791] rt712-sdca sdw:0:0:025d:0713:01: Bus clash detected before INT mask is enabled
+[1055377.239464] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1055377.240553] OOM killer enabled.
+[1055377.240558] Restarting tasks: Starting
+[1055377.243754] Restarting tasks: Done
+[1055377.243866] random: crng reseeded on system resumption
+[1055377.308595] PM: suspend exit
+[1055377.309797] PM: suspend entry (s2idle)
+[1055377.348034] Filesystems sync: 0.038 seconds
+[1055377.349642] Freezing user space processes
+[1055377.353860] Freezing user space processes completed (elapsed 0.004 seconds)
+[1055377.353874] OOM killer disabled.
+[1055377.353877] Freezing remaining freezable tasks
+[1055377.357613] Freezing remaining freezable tasks completed (elapsed 0.003 seconds)
+[1055377.357639] printk: Suspending console(s) (use no_console_suspend to debug)
+[1055377.364282] mhi-pci-generic 0000:08:00.0: failed to suspend device: -16
+[1055377.364291] mhi-pci-generic 0000:08:00.0: PM: pci_pm_suspend(): mhi_pci_suspend [mhi_pci_generic] returns -16
+[1055377.364311] mhi-pci-generic 0000:08:00.0: PM: dpm_run_callback(): pci_pm_suspend returns -16
+[1055377.364319] mhi-pci-generic 0000:08:00.0: PM: failed to suspend async: error -16
+[1055377.450400] PM: Some devices failed to suspend, or early wake event detected
+[1055377.461521] nvme nvme0: D3 entry latency set to 10 seconds
+[1055377.465022] nvme nvme0: 8/0/0 default/read/poll queues
+[1055377.568035] rt712-sdca sdw:0:0:025d:0713:01: Bus clash detected before INT mask is enabled
+[1055377.638191] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1055377.639338] OOM killer enabled.
+[1055377.639342] Restarting tasks: Starting
+[1055377.642029] Restarting tasks: Done
+[1055377.642095] random: crng reseeded on system resumption
+[1055377.699383] PM: suspend exit
+[1055380.799715] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1055380.800145] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1055380.840675] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1055380.840701] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1055380.845502] wlp0s20f3: authenticated
+[1055380.846647] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1055380.850229] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=24)
+[1055380.851528] wlp0s20f3: associated
+[1055380.947086] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1055390.419199] wireplumber[364053]: segfault at 13000000f0 ip 00007fc7d632dbd1 sp 00007ffd97579428 error 4 in libgobject-2.0.so.0.8600.0[3dbd1,7fc7d6300000+36000] likely on CPU 3 (core 12, socket 0)
+[1055390.419238] Code: d5 57 02 00 48 8b 34 e8 e9 44 ff ff ff 90 66 66 2e 0f 1f 84 00 00 00 00 00 f3 0f 1e fa 48 85 ff 74 47 48 8b 07 48 85 c0 74 3f <48> 8b 00 48 3d fc 03 00 00 77 2c 48 8d 15 9d 57 02 00 48 c1 e8 02
+[1055403.774289] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1055404.182386] PM: suspend entry (s2idle)
+[1055404.415457] Filesystems sync: 0.233 seconds
+[1055407.220492] Freezing user space processes
+[1055407.223979] Freezing user space processes completed (elapsed 0.003 seconds)
+[1055407.223991] OOM killer disabled.
+[1055407.223993] Freezing remaining freezable tasks
+[1055407.226397] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1055407.226408] printk: Suspending console(s) (use no_console_suspend to debug)
+[1055407.548903] ACPI: EC: interrupt blocked
+[1055496.693791] ACPI: EC: interrupt unblocked
+[1055496.967021] nvme nvme0: D3 entry latency set to 10 seconds
+[1055497.010692] nvme nvme0: 8/0/0 default/read/poll queues
+[1055497.154592] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1055497.155211] OOM killer enabled.
+[1055497.155215] Restarting tasks: Starting
+[1055497.158088] Restarting tasks: Done
+[1055497.158141] random: crng reseeded on system resumption
+[1055497.230111] PM: suspend exit
+[1055500.236189] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1055500.236552] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1055500.265785] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1055500.265808] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1055500.269023] wlp0s20f3: authenticated
+[1055500.272944] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1055500.275895] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=22)
+[1055500.277445] wlp0s20f3: associated
+[1055500.361409] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1057189.635193] audit: type=1400 audit(1761074395.938:167): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="virt-aa-helper" pid=383276 comm="apparmor_parser"
+[1057191.228166] audit: type=1400 audit(1761074397.530:168): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libvirtd" pid=383880 comm="apparmor_parser"
+[1057191.228495] audit: type=1400 audit(1761074397.530:169): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="libvirtd//qemu_bridge_helper" pid=383880 comm="apparmor_parser"
+[1060903.155001] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1060904.776421] PM: suspend entry (s2idle)
+[1060904.942132] Filesystems sync: 0.165 seconds
+[1060906.311865] Freezing user space processes
+[1060906.314718] Freezing user space processes completed (elapsed 0.002 seconds)
+[1060906.314722] OOM killer disabled.
+[1060906.314723] Freezing remaining freezable tasks
+[1060906.316187] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1060906.316189] printk: Suspending console(s) (use no_console_suspend to debug)
+[1060906.691228] ACPI: EC: interrupt blocked
+[1065495.183662] ACPI: EC: interrupt unblocked
+[1065495.467125] nvme nvme0: D3 entry latency set to 10 seconds
+[1065495.509681] nvme nvme0: 8/0/0 default/read/poll queues
+[1065495.650307] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1065495.658780] OOM killer enabled.
+[1065495.658786] Restarting tasks: Starting
+[1065495.663180] Restarting tasks: Done
+[1065495.663295] random: crng reseeded on system resumption
+[1065495.729866] PM: suspend exit
+[1065496.276876] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1065500.326452] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1065500.326786] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1065500.358960] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1065500.358967] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1065500.361470] wlp0s20f3: authenticated
+[1065500.362636] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1065500.366152] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=27)
+[1065500.367421] wlp0s20f3: associated
+[1065500.468267] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1065523.277926] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1065523.710293] PM: suspend entry (s2idle)
+[1065523.844323] Filesystems sync: 0.134 seconds
+[1065524.877106] Freezing user space processes
+[1065524.879932] Freezing user space processes completed (elapsed 0.002 seconds)
+[1065524.879935] OOM killer disabled.
+[1065524.879936] Freezing remaining freezable tasks
+[1065524.881400] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1065524.881401] printk: Suspending console(s) (use no_console_suspend to debug)
+[1065525.258240] ACPI: EC: interrupt blocked
+[1073276.309673] ACPI: EC: interrupt unblocked
+[1073276.588405] nvme nvme0: D3 entry latency set to 10 seconds
+[1073276.635475] nvme nvme0: 8/0/0 default/read/poll queues
+[1073276.795660] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1073276.796796] OOM killer enabled.
+[1073276.796802] Restarting tasks: Starting
+[1073276.800620] Restarting tasks: Done
+[1073276.800731] random: crng reseeded on system resumption
+[1073276.876805] PM: suspend exit
+[1073277.396590] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1073277.796177] audit: type=1400 audit(1761090486.507:170): apparmor="DENIED" operation="open" class="file" profile="/usr/sbin/cupsd" name="/etc/paperspecs" pid=400952 comm="cupsd" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+[1073277.810616] audit: type=1400 audit(1761090486.523:171): apparmor="DENIED" operation="capable" class="cap" profile="/usr/sbin/cupsd" pid=400952 comm="cupsd" capability=12  capname="net_admin"
+[1073281.201814] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1073281.202135] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1073281.236060] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1073281.236074] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1073281.240458] wlp0s20f3: authenticated
+[1073281.245857] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1073281.250565] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=19)
+[1073281.252077] wlp0s20f3: associated
+[1073281.329974] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1073304.712761] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1073305.224347] PM: suspend entry (s2idle)
+[1073305.541459] Filesystems sync: 0.317 seconds
+[1073306.903934] Freezing user space processes
+[1073306.906778] Freezing user space processes completed (elapsed 0.002 seconds)
+[1073306.906781] OOM killer disabled.
+[1073306.906782] Freezing remaining freezable tasks
+[1073306.908275] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1073306.908277] printk: Suspending console(s) (use no_console_suspend to debug)
+[1073307.240642] ACPI: EC: interrupt blocked
+[1075692.650749] ACPI: EC: interrupt unblocked
+[1075692.954428] nvme nvme0: D3 entry latency set to 10 seconds
+[1075692.998341] nvme nvme0: 8/0/0 default/read/poll queues
+[1075693.142672] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1075693.142874] OOM killer enabled.
+[1075693.142877] Restarting tasks: Starting
+[1075693.145986] Restarting tasks: Done
+[1075693.146039] random: crng reseeded on system resumption
+[1075693.206871] PM: suspend exit
+[1075693.725648] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1075697.495176] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1075697.495504] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1075697.526632] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1075697.526661] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1075697.529565] wlp0s20f3: authenticated
+[1075697.536442] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1075697.540157] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=15)
+[1075697.541685] wlp0s20f3: associated
+[1075697.632843] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1075720.738696] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1075721.231884] PM: suspend entry (s2idle)
+[1075721.311951] Filesystems sync: 0.080 seconds
+[1075722.282104] Freezing user space processes
+[1075722.284980] Freezing user space processes completed (elapsed 0.002 seconds)
+[1075722.284983] OOM killer disabled.
+[1075722.284984] Freezing remaining freezable tasks
+[1075722.286483] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1075722.286485] printk: Suspending console(s) (use no_console_suspend to debug)
+[1075722.597365] ACPI: EC: interrupt blocked
+[1097109.998250] ACPI: EC: interrupt unblocked
+[1097110.322704] nvme nvme0: D3 entry latency set to 10 seconds
+[1097110.373561] nvme nvme0: 8/0/0 default/read/poll queues
+[1097111.021578] xe 0000:00:02.0: [drm] GT1: excessive init time: 513ms! [status = 0x8002F034, timeouts = 0]
+[1097111.021641] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1097111.197304] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1097111.198767] OOM killer enabled.
+[1097111.198779] Restarting tasks: Starting
+[1097111.203905] Restarting tasks: Done
+[1097111.204051] random: crng reseeded on system resumption
+[1097111.351355] PM: suspend exit
+[1097112.266807] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1097116.615442] wlp0s20f3: authenticate with ce:06:c3:e4:64:4d (local address=4c:0f:3e:ab:41:27)
+[1097116.615760] wlp0s20f3: send auth to ce:06:c3:e4:64:4d (try 1/3)
+[1097116.648138] wlp0s20f3: authenticate with ce:06:c3:e4:64:4d (local address=4c:0f:3e:ab:41:27)
+[1097116.648183] wlp0s20f3: send auth to ce:06:c3:e4:64:4d (try 1/3)
+[1097116.649959] wlp0s20f3: authenticated
+[1097116.653398] wlp0s20f3: associate with ce:06:c3:e4:64:4d (try 1/3)
+[1097116.656570] wlp0s20f3: RX AssocResp from ce:06:c3:e4:64:4d (capab=0x1011 status=0 aid=20)
+[1097116.659104] wlp0s20f3: associated
+[1097116.722400] wlp0s20f3: Limiting TX power to 30 (30 - 0) dBm as advertised by ce:06:c3:e4:64:4d
+[1097138.803380] wlp0s20f3: deauthenticating from ce:06:c3:e4:64:4d by local choice (Reason: 3=DEAUTH_LEAVING)
+[1097139.312399] PM: suspend entry (s2idle)
+[1097139.421206] Filesystems sync: 0.108 seconds
+[1097140.469600] Freezing user space processes
+[1097140.472764] Freezing user space processes completed (elapsed 0.003 seconds)
+[1097140.472768] OOM killer disabled.
+[1097140.472769] Freezing remaining freezable tasks
+[1097140.474744] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1097140.474747] printk: Suspending console(s) (use no_console_suspend to debug)
+[1097140.791858] ACPI: EC: interrupt blocked
+[1114824.161966] ACPI: EC: interrupt unblocked
+[1114824.482236] nvme nvme0: D3 entry latency set to 10 seconds
+[1114824.519922] nvme nvme0: 8/0/0 default/read/poll queues
+[1114825.419148] xe 0000:00:02.0: [drm] GT1: excessive init time: 663ms! [status = 0x8002F034, timeouts = 0]
+[1114825.419212] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1114825.593785] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1114825.601147] OOM killer enabled.
+[1114825.601161] Restarting tasks: Starting
+[1114825.608143] Restarting tasks: Done
+[1114825.608315] random: crng reseeded on system resumption
+[1114825.732323] PM: suspend exit
+[1114826.862231] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1114831.137654] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1114831.137968] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1114831.174388] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1114831.174429] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1114831.177462] wlp0s20f3: authenticated
+[1114831.180339] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1114831.184014] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=14)
+[1114831.185396] wlp0s20f3: associated
+[1114831.240500] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1114852.551293] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1114853.894144] PM: suspend entry (s2idle)
+[1114854.309843] Filesystems sync: 0.415 seconds
+[1114855.407795] Freezing user space processes
+[1114855.409972] Freezing user space processes completed (elapsed 0.002 seconds)
+[1114855.409976] OOM killer disabled.
+[1114855.409977] Freezing remaining freezable tasks
+[1114855.411543] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1114855.411544] printk: Suspending console(s) (use no_console_suspend to debug)
+[1114856.089152] ACPI: EC: interrupt blocked
+[1129130.163164] ACPI: EC: interrupt unblocked
+[1129130.474995] nvme nvme0: D3 entry latency set to 10 seconds
+[1129130.527955] nvme nvme0: 8/0/0 default/read/poll queues
+[1129131.300821] xe 0000:00:02.0: [drm] GT1: excessive init time: 564ms! [status = 0x8002F034, timeouts = 0]
+[1129131.300884] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1129131.964454] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1129131.965693] OOM killer enabled.
+[1129131.965706] Restarting tasks: Starting
+[1129131.973565] Restarting tasks: Done
+[1129131.973691] random: crng reseeded on system resumption
+[1129132.122967] PM: suspend exit
+[1129133.176388] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1129137.530424] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1129137.530909] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1129137.571228] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1129137.571277] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1129137.574557] wlp0s20f3: authenticated
+[1129137.576633] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1129137.580231] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=28)
+[1129137.585073] wlp0s20f3: associated
+[1129137.689369] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1129242.924423] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129243.026831] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129243.129230] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129243.231643] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129243.334062] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129243.436346] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129243.538738] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129243.641145] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129243.743539] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129243.845948] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129243.948380] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129244.050756] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129244.153253] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129244.255715] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129244.358040] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129244.460492] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129244.562843] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129244.665212] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129244.767664] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129244.870004] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129244.972464] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129245.074870] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129245.177292] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129245.279689] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129245.382045] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129245.484477] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129245.586888] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129245.689275] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129245.791733] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129245.893979] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129245.996493] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129246.098937] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129246.201283] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129246.303737] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129246.406125] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129246.508475] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129246.610904] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129246.713336] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129246.815699] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129246.918178] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129247.020521] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129247.122949] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129249.478598] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129249.581152] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129249.683504] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129249.785763] iwlwifi 0000:00:14.3: missed beacons exceeds threshold, but receiving data. Stay connected, Expect bugs.
+[1129254.086361] wlp0s20f3: Connection to AP d2:06:c3:e4:64:56 lost
+[1129254.591106] wlp0s20f3: authenticate with ce:06:c3:e4:64:4d (local address=4c:0f:3e:ab:41:27)
+[1129254.591685] wlp0s20f3: send auth to ce:06:c3:e4:64:4d (try 1/3)
+[1129254.620142] wlp0s20f3: authenticate with ce:06:c3:e4:64:4d (local address=4c:0f:3e:ab:41:27)
+[1129254.620150] wlp0s20f3: send auth to ce:06:c3:e4:64:4d (try 1/3)
+[1129254.623049] wlp0s20f3: authenticated
+[1129254.630464] wlp0s20f3: associate with ce:06:c3:e4:64:4d (try 1/3)
+[1129254.632356] wlp0s20f3: RX AssocResp from ce:06:c3:e4:64:4d (capab=0x1011 status=0 aid=14)
+[1129254.633832] wlp0s20f3: associated
+[1129254.706469] wlp0s20f3: Limiting TX power to 30 (30 - 0) dBm as advertised by ce:06:c3:e4:64:4d
+[1129558.928820] wlp0s20f3: disconnect from AP ce:06:c3:e4:64:4d for new auth to d2:06:c3:e4:64:56
+[1129559.055625] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1129559.056200] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1129559.057777] wlp0s20f3: authenticated
+[1129559.066960] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1129559.071264] wlp0s20f3: RX ReassocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=13)
+[1129559.072419] wlp0s20f3: associated
+[1129559.128856] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1136529.300857] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1136531.060043] PM: suspend entry (s2idle)
+[1136531.267963] Filesystems sync: 0.207 seconds
+[1136535.213857] Freezing user space processes
+[1136535.217924] Freezing user space processes completed (elapsed 0.004 seconds)
+[1136535.217938] OOM killer disabled.
+[1136535.217940] Freezing remaining freezable tasks
+[1136535.221003] Freezing remaining freezable tasks completed (elapsed 0.003 seconds)
+[1136535.221013] printk: Suspending console(s) (use no_console_suspend to debug)
+[1136535.598154] ACPI: EC: interrupt blocked
+[1136621.070020] ACPI: EC: interrupt unblocked
+[1136621.347513] nvme nvme0: D3 entry latency set to 10 seconds
+[1136621.398256] nvme nvme0: 8/0/0 default/read/poll queues
+[1136621.536472] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1136621.537716] OOM killer enabled.
+[1136621.537722] Restarting tasks: Starting
+[1136621.540760] Restarting tasks: Done
+[1136621.540842] random: crng reseeded on system resumption
+[1136621.606365] PM: suspend exit
+[1136624.725867] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1136624.726226] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1136624.757020] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1136624.757034] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1136624.760827] wlp0s20f3: authenticated
+[1136624.763052] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1136624.766612] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=12)
+[1136624.767904] wlp0s20f3: associated
+[1136624.795311] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1136646.516766] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1136647.839926] PM: suspend entry (s2idle)
+[1136648.022059] Filesystems sync: 0.182 seconds
+[1136650.654113] Freezing user space processes
+[1136650.658010] Freezing user space processes completed (elapsed 0.003 seconds)
+[1136650.658022] OOM killer disabled.
+[1136650.658025] Freezing remaining freezable tasks
+[1136650.660256] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1136650.660266] printk: Suspending console(s) (use no_console_suspend to debug)
+[1136651.020972] ACPI: EC: interrupt blocked
+[1136778.143125] ACPI: EC: interrupt unblocked
+[1136778.415686] nvme nvme0: D3 entry latency set to 10 seconds
+[1136778.449724] nvme nvme0: 8/0/0 default/read/poll queues
+[1136778.607052] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1136778.607829] OOM killer enabled.
+[1136778.607833] Restarting tasks: Starting
+[1136778.611356] Restarting tasks: Done
+[1136778.611413] random: crng reseeded on system resumption
+[1136778.677251] PM: suspend exit
+[1136781.951554] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1136781.951978] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1136781.985547] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1136781.985560] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1136781.989898] wlp0s20f3: authenticated
+[1136781.991845] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1136781.995654] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=21)
+[1136781.997389] wlp0s20f3: associated
+[1136782.092374] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1137442.846742] /proc/cgroups lists only v1 controllers, use cgroup.controllers of root cgroup for v2 info
+[1137762.421365] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1137764.304616] PM: suspend entry (s2idle)
+[1137764.390725] Filesystems sync: 0.086 seconds
+[1137767.905483] Freezing user space processes
+[1137767.908961] Freezing user space processes completed (elapsed 0.003 seconds)
+[1137767.908974] OOM killer disabled.
+[1137767.908977] Freezing remaining freezable tasks
+[1137767.911637] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1137767.911650] printk: Suspending console(s) (use no_console_suspend to debug)
+[1137768.253035] ACPI: EC: interrupt blocked
+[1154726.883881] ACPI: EC: interrupt unblocked
+[1154727.215340] nvme nvme0: D3 entry latency set to 10 seconds
+[1154727.274262] nvme nvme0: 8/0/0 default/read/poll queues
+[1154728.049463] xe 0000:00:02.0: [drm] GT1: excessive init time: 623ms! [status = 0x8002F034, timeouts = 0]
+[1154728.049528] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1154728.225817] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1154728.227546] OOM killer enabled.
+[1154728.227560] Restarting tasks: Starting
+[1154728.231348] Restarting tasks: Done
+[1154728.231495] random: crng reseeded on system resumption
+[1154728.391995] PM: suspend exit
+[1154729.313153] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1154733.567116] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1154733.567456] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1154733.603507] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1154733.603547] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1154733.605543] wlp0s20f3: authenticated
+[1154733.609503] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1154733.613185] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=22)
+[1154733.615135] wlp0s20f3: associated
+[1154733.616115] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1154752.813825] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1154753.233436] PM: suspend entry (s2idle)
+[1154753.953630] Filesystems sync: 0.720 seconds
+[1154756.199388] Freezing user space processes
+[1154756.218540] Freezing user space processes completed (elapsed 0.019 seconds)
+[1154756.218554] OOM killer disabled.
+[1154756.218557] Freezing remaining freezable tasks
+[1154756.220664] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1154756.220676] printk: Suspending console(s) (use no_console_suspend to debug)
+[1154756.567826] ACPI: EC: interrupt blocked
+[1173533.700424] ACPI: EC: interrupt unblocked
+[1173534.008537] nvme nvme0: D3 entry latency set to 10 seconds
+[1173534.067685] nvme nvme0: 8/0/0 default/read/poll queues
+[1173534.735008] xe 0000:00:02.0: [drm] GT1: excessive init time: 525ms! [status = 0x8002F034, timeouts = 0]
+[1173534.735073] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1173534.920466] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1173534.922052] OOM killer enabled.
+[1173534.922065] Restarting tasks: Starting
+[1173534.929748] Restarting tasks: Done
+[1173534.929866] random: crng reseeded on system resumption
+[1173535.059329] PM: suspend exit
+[1173535.845371] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1173540.014765] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1173540.015213] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1173540.049298] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1173540.049350] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1173540.051323] wlp0s20f3: authenticated
+[1173540.054908] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1173540.058536] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=23)
+[1173540.059949] wlp0s20f3: associated
+[1173540.151110] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1173560.341254] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1173560.662426] PM: suspend entry (s2idle)
+[1173561.014345] Filesystems sync: 0.351 seconds
+[1173563.625675] Freezing user space processes
+[1173563.629030] Freezing user space processes completed (elapsed 0.003 seconds)
+[1173563.629039] OOM killer disabled.
+[1173563.629041] Freezing remaining freezable tasks
+[1173563.631091] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1173563.631101] printk: Suspending console(s) (use no_console_suspend to debug)
+[1173563.965583] ACPI: EC: interrupt blocked
+[1191966.224766] ACPI: EC: interrupt unblocked
+[1191966.520679] nvme nvme0: D3 entry latency set to 10 seconds
+[1191966.566879] nvme nvme0: 8/0/0 default/read/poll queues
+[1191967.126831] xe 0000:00:02.0: [drm] GT1: excessive init time: 437ms! [status = 0x8002F034, timeouts = 0]
+[1191967.126896] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1191967.283243] rt712-sdca sdw:0:0:025d:0713:01: Bus clash detected before INT mask is enabled
+[1191967.312599] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1191967.314223] OOM killer enabled.
+[1191967.314237] Restarting tasks: Starting
+[1191967.318236] Restarting tasks: Done
+[1191967.318388] random: crng reseeded on system resumption
+[1191967.481665] PM: suspend exit
+[1191968.432437] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1191972.674407] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1191972.674805] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1191972.714774] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1191972.714814] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1191972.716992] wlp0s20f3: authenticated
+[1191972.718778] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1191972.722701] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=19)
+[1191972.724643] wlp0s20f3: associated
+[1191972.807485] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1191992.948415] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1191993.422895] PM: suspend entry (s2idle)
+[1191993.639773] Filesystems sync: 0.216 seconds
+[1191996.539896] Freezing user space processes
+[1191996.543223] Freezing user space processes completed (elapsed 0.003 seconds)
+[1191996.543234] OOM killer disabled.
+[1191996.543237] Freezing remaining freezable tasks
+[1191996.545246] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1191996.545256] printk: Suspending console(s) (use no_console_suspend to debug)
+[1191996.868522] ACPI: EC: interrupt blocked
+[1193576.226930] ACPI: EC: interrupt unblocked
+[1193576.514557] nvme nvme0: D3 entry latency set to 10 seconds
+[1193576.550996] nvme nvme0: 8/0/0 default/read/poll queues
+[1193576.701515] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1193576.702701] OOM killer enabled.
+[1193576.702707] Restarting tasks: Starting
+[1193576.706364] Restarting tasks: Done
+[1193576.706433] random: crng reseeded on system resumption
+[1193576.772977] PM: suspend exit
+[1193577.300027] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1193581.270547] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1193581.270865] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1193581.301138] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1193581.301151] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1193581.304562] wlp0s20f3: authenticated
+[1193581.306106] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1193581.309819] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=15)
+[1193581.311383] wlp0s20f3: associated
+[1193581.386419] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1194818.583717] audit: type=1400 audit(1761212026.034:172): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="signal-desktop" pid=441010 comm="apparmor_parser"
+[1194910.849859] wlp0s20f3: Connection to AP d2:06:c3:e4:64:56 lost
+[1194911.192317] wlp0s20f3: authenticate with ce:06:c3:e4:64:4d (local address=4c:0f:3e:ab:41:27)
+[1194911.192791] wlp0s20f3: send auth to ce:06:c3:e4:64:4d (try 1/3)
+[1194911.225068] wlp0s20f3: authenticate with ce:06:c3:e4:64:4d (local address=4c:0f:3e:ab:41:27)
+[1194911.225084] wlp0s20f3: send auth to ce:06:c3:e4:64:4d (try 1/3)
+[1194911.227136] wlp0s20f3: authenticated
+[1194911.231597] wlp0s20f3: associate with ce:06:c3:e4:64:4d (try 1/3)
+[1194911.233396] wlp0s20f3: RX AssocResp from ce:06:c3:e4:64:4d (capab=0x1011 status=0 aid=24)
+[1194911.235309] wlp0s20f3: associated
+[1194911.324060] wlp0s20f3: Limiting TX power to 30 (30 - 0) dBm as advertised by ce:06:c3:e4:64:4d
+[1195215.305855] wlp0s20f3: disconnect from AP ce:06:c3:e4:64:4d for new auth to d2:06:c3:e4:64:56
+[1195215.388889] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1195215.389433] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1195215.390684] wlp0s20f3: authenticated
+[1195215.395980] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1195215.400322] wlp0s20f3: RX ReassocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=20)
+[1195215.401488] wlp0s20f3: associated
+[1195215.482314] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1215290.641673] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1215292.385011] PM: suspend entry (s2idle)
+[1215292.610905] Filesystems sync: 0.225 seconds
+[1215295.023561] Freezing user space processes
+[1215295.039594] Freezing user space processes completed (elapsed 0.016 seconds)
+[1215295.039600] OOM killer disabled.
+[1215295.039602] Freezing remaining freezable tasks
+[1215295.041448] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1215295.041456] printk: Suspending console(s) (use no_console_suspend to debug)
+[1215295.402194] ACPI: EC: interrupt blocked
+[1230386.582745] ACPI: EC: interrupt unblocked
+[1230386.861230] nvme nvme0: D3 entry latency set to 10 seconds
+[1230386.901441] nvme nvme0: 8/0/0 default/read/poll queues
+[1230387.046575] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1230387.047302] OOM killer enabled.
+[1230387.047310] Restarting tasks: Starting
+[1230387.049921] Restarting tasks: Done
+[1230387.050016] random: crng reseeded on system resumption
+[1230387.134572] PM: suspend exit
+[1230387.664695] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1230392.034480] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1230392.035069] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1230392.066583] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1230392.066596] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1230392.070072] wlp0s20f3: authenticated
+[1230392.073016] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1230392.075971] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=25)
+[1230392.078111] wlp0s20f3: associated
+[1230392.181340] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1230412.852760] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1230413.390966] PM: suspend entry (s2idle)
+[1230414.245965] Filesystems sync: 0.854 seconds
+[1230417.200751] Freezing user space processes
+[1230417.204060] Freezing user space processes completed (elapsed 0.003 seconds)
+[1230417.204071] OOM killer disabled.
+[1230417.204073] Freezing remaining freezable tasks
+[1230417.205794] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1230417.205804] printk: Suspending console(s) (use no_console_suspend to debug)
+[1230417.603965] ACPI: EC: interrupt blocked
+[1248804.233104] ACPI: EC: interrupt unblocked
+[1248804.553192] nvme nvme0: D3 entry latency set to 10 seconds
+[1248804.608696] nvme nvme0: 8/0/0 default/read/poll queues
+[1248805.341558] xe 0000:00:02.0: [drm] GT1: excessive init time: 613ms! [status = 0x8002F034, timeouts = 0]
+[1248805.341626] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1248805.498635] rt712-sdca sdw:0:0:025d:0713:01: Bus clash detected before INT mask is enabled
+[1248805.528046] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1248805.529988] OOM killer enabled.
+[1248805.530003] Restarting tasks: Starting
+[1248805.536882] Restarting tasks: Done
+[1248805.537001] random: crng reseeded on system resumption
+[1248805.688263] PM: suspend exit
+[1248806.512642] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1248810.885219] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1248810.885589] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1248810.920575] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1248810.920616] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1248810.922893] wlp0s20f3: authenticated
+[1248810.925608] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1248810.929340] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=16)
+[1248810.931766] wlp0s20f3: associated
+[1248810.974369] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1248830.162921] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1248830.601882] PM: suspend entry (s2idle)
+[1248830.952935] Filesystems sync: 0.351 seconds
+[1248833.511738] Freezing user space processes
+[1248833.521908] Freezing user space processes completed (elapsed 0.010 seconds)
+[1248833.521916] OOM killer disabled.
+[1248833.521918] Freezing remaining freezable tasks
+[1248833.523768] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1248833.523772] printk: Suspending console(s) (use no_console_suspend to debug)
+[1248833.921182] ACPI: EC: interrupt blocked
+[1249081.990094] ACPI: EC: interrupt unblocked
+[1249082.265180] nvme nvme0: D3 entry latency set to 10 seconds
+[1249082.297255] nvme nvme0: 8/0/0 default/read/poll queues
+[1249082.454208] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1249082.455043] OOM killer enabled.
+[1249082.455056] Restarting tasks: Starting
+[1249082.457756] Restarting tasks: Done
+[1249082.457806] random: crng reseeded on system resumption
+[1249082.528360] PM: suspend exit
+[1249085.058290] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1249085.058943] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1249085.090764] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1249085.090789] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1249085.094492] wlp0s20f3: authenticated
+[1249085.096979] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1249085.099515] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=26)
+[1249085.102033] wlp0s20f3: associated
+[1249085.217291] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1249108.640564] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1249108.923393] PM: suspend entry (s2idle)
+[1249109.210971] Filesystems sync: 0.287 seconds
+[1249111.925846] Freezing user space processes
+[1249111.929207] Freezing user space processes completed (elapsed 0.003 seconds)
+[1249111.929218] OOM killer disabled.
+[1249111.929220] Freezing remaining freezable tasks
+[1249111.931281] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1249111.931291] printk: Suspending console(s) (use no_console_suspend to debug)
+[1249112.259609] ACPI: EC: interrupt blocked
+[1270469.862815] ACPI: EC: interrupt unblocked
+[1270470.177632] nvme nvme0: D3 entry latency set to 10 seconds
+[1270470.220666] nvme nvme0: 8/0/0 default/read/poll queues
+[1270471.041568] xe 0000:00:02.0: [drm] GT1: excessive init time: 656ms! [status = 0x8002F034, timeouts = 0]
+[1270471.041633] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1270471.219753] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1270471.221187] OOM killer enabled.
+[1270471.221200] Restarting tasks: Starting
+[1270471.230402] Restarting tasks: Done
+[1270471.230520] random: crng reseeded on system resumption
+[1270471.385857] PM: suspend exit
+[1270472.237169] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1270476.481978] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1270476.482424] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1270476.520313] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1270476.520362] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1270476.523203] wlp0s20f3: authenticated
+[1270476.525588] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1270476.529550] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=12)
+[1270476.532093] wlp0s20f3: associated
+[1270476.578233] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1270496.618158] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1270496.918332] PM: suspend entry (s2idle)
+[1270497.149824] Filesystems sync: 0.231 seconds
+[1270500.328143] Freezing user space processes
+[1270500.331898] Freezing user space processes completed (elapsed 0.003 seconds)
+[1270500.331914] OOM killer disabled.
+[1270500.331916] Freezing remaining freezable tasks
+[1270500.334608] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1270500.334620] printk: Suspending console(s) (use no_console_suspend to debug)
+[1270500.660554] ACPI: EC: interrupt blocked
+[1289974.539338] ACPI: EC: interrupt unblocked
+[1289974.859808] nvme nvme0: D3 entry latency set to 10 seconds
+[1289974.895719] nvme nvme0: 8/0/0 default/read/poll queues
+[1289975.702236] xe 0000:00:02.0: [drm] GT1: excessive init time: 600ms! [status = 0x8002F034, timeouts = 0]
+[1289975.702301] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1289975.879694] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1289975.881728] OOM killer enabled.
+[1289975.881744] Restarting tasks: Starting
+[1289975.885796] Restarting tasks: Done
+[1289975.885913] random: crng reseeded on system resumption
+[1289976.047217] PM: suspend exit
+[1289977.049848] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1289981.340598] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1289981.341015] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1289981.377942] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1289981.377981] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1289981.380002] wlp0s20f3: authenticated
+[1289981.382222] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1289981.386128] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=17)
+[1289981.388022] wlp0s20f3: associated
+[1289981.506832] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1290000.826868] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1290001.236687] PM: suspend entry (s2idle)
+[1290002.054927] Filesystems sync: 0.818 seconds
+[1290004.869501] Freezing user space processes
+[1290004.873147] Freezing user space processes completed (elapsed 0.003 seconds)
+[1290004.873162] OOM killer disabled.
+[1290004.873164] Freezing remaining freezable tasks
+[1290004.876457] Freezing remaining freezable tasks completed (elapsed 0.003 seconds)
+[1290004.876481] printk: Suspending console(s) (use no_console_suspend to debug)
+[1290005.210816] ACPI: EC: interrupt blocked
+[1311400.668765] ACPI: EC: interrupt unblocked
+[1311400.948280] nvme nvme0: D3 entry latency set to 10 seconds
+[1311400.991740] nvme nvme0: 8/0/0 default/read/poll queues
+[1311401.217828] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1311401.218977] OOM killer enabled.
+[1311401.218981] Restarting tasks: Starting
+[1311401.222620] Restarting tasks: Done
+[1311401.222687] random: crng reseeded on system resumption
+[1311401.313895] PM: suspend exit
+[1311401.939771] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1311405.884248] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1311405.884602] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1311405.918979] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1311405.919004] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1311405.921439] wlp0s20f3: authenticated
+[1311405.925940] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1311405.929627] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=22)
+[1311405.931154] wlp0s20f3: associated
+[1311405.998276] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1311426.677670] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1311427.084693] PM: suspend entry (s2idle)
+[1311427.596186] Filesystems sync: 0.511 seconds
+[1311429.359211] Freezing user space processes
+[1311429.361406] Freezing user space processes completed (elapsed 0.002 seconds)
+[1311429.361414] OOM killer disabled.
+[1311429.361416] Freezing remaining freezable tasks
+[1311429.363225] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1311429.363233] printk: Suspending console(s) (use no_console_suspend to debug)
+[1311429.691485] ACPI: EC: interrupt blocked
+[1328778.857721] ACPI: EC: interrupt unblocked
+[1328779.181497] nvme nvme0: D3 entry latency set to 10 seconds
+[1328779.240878] nvme nvme0: 8/0/0 default/read/poll queues
+[1328779.925410] xe 0000:00:02.0: [drm] GT1: excessive init time: 540ms! [status = 0x8002F034, timeouts = 0]
+[1328779.925474] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1328780.110481] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1328780.112678] OOM killer enabled.
+[1328780.112693] Restarting tasks: Starting
+[1328780.119437] Restarting tasks: Done
+[1328780.119587] random: crng reseeded on system resumption
+[1328780.273622] PM: suspend exit
+[1328781.152439] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1328785.324272] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1328785.324759] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1328785.361591] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1328785.361634] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1328785.363947] wlp0s20f3: authenticated
+[1328785.365285] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1328785.369245] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=18)
+[1328785.372056] wlp0s20f3: associated
+[1328785.430241] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1328806.250561] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1328806.656587] PM: suspend entry (s2idle)
+[1328807.306677] Filesystems sync: 0.650 seconds
+[1328809.567495] Freezing user space processes
+[1328809.569767] Freezing user space processes completed (elapsed 0.002 seconds)
+[1328809.569775] OOM killer disabled.
+[1328809.569777] Freezing remaining freezable tasks
+[1328809.571716] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1328809.571724] printk: Suspending console(s) (use no_console_suspend to debug)
+[1328809.894747] ACPI: EC: interrupt blocked
+[1346704.404722] ACPI: EC: interrupt unblocked
+[1346704.702361] nvme nvme0: D3 entry latency set to 10 seconds
+[1346704.743845] nvme nvme0: 8/0/0 default/read/poll queues
+[1346705.512787] xe 0000:00:02.0: [drm] GT1: excessive init time: 609ms! [status = 0x8002F034, timeouts = 0]
+[1346705.512851] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1346705.698457] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1346705.700480] OOM killer enabled.
+[1346705.700493] Restarting tasks: Starting
+[1346705.707927] Restarting tasks: Done
+[1346705.708045] random: crng reseeded on system resumption
+[1346705.830155] PM: suspend exit
+[1346706.658734] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1346710.499660] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1346710.500118] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1346710.538056] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1346710.538097] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1346710.541284] wlp0s20f3: authenticated
+[1346710.545903] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1346710.549625] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=23)
+[1346710.551562] wlp0s20f3: associated
+[1346710.638520] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1346731.126612] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1346731.528840] PM: suspend entry (s2idle)
+[1346731.904920] Filesystems sync: 0.376 seconds
+[1346733.766686] Freezing user space processes
+[1346733.768878] Freezing user space processes completed (elapsed 0.002 seconds)
+[1346733.768886] OOM killer disabled.
+[1346733.768887] Freezing remaining freezable tasks
+[1346733.770473] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1346733.770481] printk: Suspending console(s) (use no_console_suspend to debug)
+[1346733.950715] rt1318-sdca sdw:0:1:025d:1318:01: Invalid slave 1 status:3
+[1346734.094015] ACPI: EC: interrupt blocked
+[1360853.366335] ACPI: EC: interrupt unblocked
+[1360853.645577] nvme nvme0: D3 entry latency set to 10 seconds
+[1360853.688554] nvme nvme0: 8/0/0 default/read/poll queues
+[1360853.837428] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1360853.838700] OOM killer enabled.
+[1360853.838704] Restarting tasks: Starting
+[1360853.841231] Restarting tasks: Done
+[1360853.841298] random: crng reseeded on system resumption
+[1360853.930350] PM: suspend exit
+[1360854.490377] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1360858.136689] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1360858.137065] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1360858.168560] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1360858.168570] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1360858.172291] wlp0s20f3: authenticated
+[1360858.175640] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1360858.177925] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=27)
+[1360858.179256] wlp0s20f3: associated
+[1360858.209795] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1388315.867727] sched: DL replenish lagged too much
+[1393407.013260] wlp0s20f3: Connection to AP d2:06:c3:e4:64:56 lost
+[1393410.143314] wlp0s20f3: authenticate with ce:06:c3:e4:64:4d (local address=4c:0f:3e:ab:41:27)
+[1393410.143708] wlp0s20f3: send auth to ce:06:c3:e4:64:4d (try 1/3)
+[1393410.173465] wlp0s20f3: authenticate with ce:06:c3:e4:64:4d (local address=4c:0f:3e:ab:41:27)
+[1393410.173475] wlp0s20f3: send auth to ce:06:c3:e4:64:4d (try 1/3)
+[1393410.176181] wlp0s20f3: authenticated
+[1393410.177202] wlp0s20f3: associate with ce:06:c3:e4:64:4d (try 1/3)
+[1393410.181457] wlp0s20f3: RX AssocResp from ce:06:c3:e4:64:4d (capab=0x1011 status=0 aid=13)
+[1393410.183241] wlp0s20f3: associated
+[1393410.357933] wlp0s20f3: Limiting TX power to 30 (30 - 0) dBm as advertised by ce:06:c3:e4:64:4d
+[1393714.271806] wlp0s20f3: disconnect from AP ce:06:c3:e4:64:4d for new auth to d2:06:c3:e4:64:56
+[1393714.352032] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1393714.352560] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1393714.386347] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1393714.386364] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1393714.389370] wlp0s20f3: authenticated
+[1393714.390931] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1393714.392645] wlp0s20f3: RX ReassocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=14)
+[1393714.394222] wlp0s20f3: associated
+[1393714.410812] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1398260.879299] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1398262.665240] PM: suspend entry (s2idle)
+[1398262.880574] Filesystems sync: 0.215 seconds
+[1398265.178071] Freezing user space processes
+[1398265.180741] Freezing user space processes completed (elapsed 0.002 seconds)
+[1398265.180745] OOM killer disabled.
+[1398265.180745] Freezing remaining freezable tasks
+[1398265.182147] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1398265.182149] printk: Suspending console(s) (use no_console_suspend to debug)
+[1398265.567019] ACPI: EC: interrupt blocked
+[1406301.613218] ACPI: EC: interrupt unblocked
+[1406301.891100] nvme nvme0: D3 entry latency set to 10 seconds
+[1406301.936084] nvme nvme0: 8/0/0 default/read/poll queues
+[1406302.045739] rt712-sdca sdw:0:0:025d:0713:01: Bus clash detected before INT mask is enabled
+[1406302.073397] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1406302.073832] OOM killer enabled.
+[1406302.073836] Restarting tasks: Starting
+[1406302.076672] Restarting tasks: Done
+[1406302.076740] random: crng reseeded on system resumption
+[1406302.134642] PM: suspend exit
+[1406303.096526] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1406306.714302] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1406306.714726] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1406306.756661] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1406306.756703] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1406306.759489] wlp0s20f3: authenticated
+[1406306.764962] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1406306.768553] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=20)
+[1406306.769919] wlp0s20f3: associated
+[1406306.865078] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1406328.638498] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1406328.974338] PM: suspend entry (s2idle)
+[1406329.297451] Filesystems sync: 0.323 seconds
+[1406330.425061] Freezing user space processes
+[1406330.427427] Freezing user space processes completed (elapsed 0.002 seconds)
+[1406330.427430] OOM killer disabled.
+[1406330.427431] Freezing remaining freezable tasks
+[1406330.428827] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1406330.428828] printk: Suspending console(s) (use no_console_suspend to debug)
+[1406330.792610] ACPI: EC: interrupt blocked
+[1424179.166514] ACPI: EC: interrupt unblocked
+[1424179.472936] nvme nvme0: D3 entry latency set to 10 seconds
+[1424179.550451] nvme nvme0: 8/0/0 default/read/poll queues
+[1424180.224585] xe 0000:00:02.0: [drm] GT1: excessive init time: 535ms! [status = 0x8002F034, timeouts = 0]
+[1424180.224646] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1424180.399310] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1424180.400773] OOM killer enabled.
+[1424180.400787] Restarting tasks: Starting
+[1424180.406101] Restarting tasks: Done
+[1424180.406235] random: crng reseeded on system resumption
+[1424180.553154] PM: suspend exit
+[1424181.666581] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1424182.164645] audit: type=1400 audit(1761441385.035:173): apparmor="DENIED" operation="open" class="file" profile="/usr/sbin/cupsd" name="/etc/paperspecs" pid=608824 comm="cupsd" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+[1424182.234425] audit: type=1400 audit(1761441385.107:174): apparmor="DENIED" operation="capable" class="cap" profile="/usr/sbin/cupsd" pid=608824 comm="cupsd" capability=12  capname="net_admin"
+[1424185.914223] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1424185.914544] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1424185.952427] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1424185.952467] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1424185.955981] wlp0s20f3: authenticated
+[1424185.960850] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1424185.964775] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=16)
+[1424185.967117] wlp0s20f3: associated
+[1424185.967770] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1424207.314266] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1424208.581201] PM: suspend entry (s2idle)
+[1424208.760560] Filesystems sync: 0.179 seconds
+[1424209.944648] Freezing user space processes
+[1424209.946629] Freezing user space processes completed (elapsed 0.001 seconds)
+[1424209.946631] OOM killer disabled.
+[1424209.946632] Freezing remaining freezable tasks
+[1424209.978028] Freezing remaining freezable tasks completed (elapsed 0.031 seconds)
+[1424209.978037] printk: Suspending console(s) (use no_console_suspend to debug)
+[1424210.663077] ACPI: EC: interrupt blocked
+[1441555.685146] ACPI: EC: interrupt unblocked
+[1441556.008960] nvme nvme0: D3 entry latency set to 10 seconds
+[1441556.054848] nvme nvme0: 8/0/0 default/read/poll queues
+[1441556.776355] xe 0000:00:02.0: [drm] GT1: excessive init time: 555ms! [status = 0x8002F034, timeouts = 0]
+[1441556.776421] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1441557.415486] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1441557.417144] OOM killer enabled.
+[1441557.417158] Restarting tasks: Starting
+[1441557.421700] Restarting tasks: Done
+[1441557.421820] random: crng reseeded on system resumption
+[1441557.572163] PM: suspend exit
+[1441558.486396] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1441562.835387] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1441562.835718] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1441562.875427] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1441562.875467] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1441562.878086] wlp0s20f3: authenticated
+[1441562.881001] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1441562.884956] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=25)
+[1441562.887112] wlp0s20f3: associated
+[1441563.009692] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1441582.728143] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1441583.173016] PM: suspend entry (s2idle)
+[1441583.408041] Filesystems sync: 0.235 seconds
+[1441584.584303] Freezing user space processes
+[1441584.586988] Freezing user space processes completed (elapsed 0.002 seconds)
+[1441584.586991] OOM killer disabled.
+[1441584.586992] Freezing remaining freezable tasks
+[1441584.588373] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1441584.588375] printk: Suspending console(s) (use no_console_suspend to debug)
+[1441584.892845] ACPI: EC: interrupt blocked
+[1458151.462408] ACPI: EC: interrupt unblocked
+[1458151.792960] nvme nvme0: D3 entry latency set to 10 seconds
+[1458151.837941] nvme nvme0: 8/0/0 default/read/poll queues
+[1458152.545231] xe 0000:00:02.0: [drm] GT1: excessive init time: 540ms! [status = 0x8002F034, timeouts = 0]
+[1458152.545292] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1458152.725620] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1458152.727224] OOM killer enabled.
+[1458152.727238] Restarting tasks: Starting
+[1458152.734829] Restarting tasks: Done
+[1458152.734949] random: crng reseeded on system resumption
+[1458152.873325] PM: suspend exit
+[1458153.803299] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1458158.047165] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1458158.047494] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1458158.080311] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1458158.080363] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1458158.083161] wlp0s20f3: authenticated
+[1458158.085198] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1458158.088331] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=9)
+[1458158.090158] wlp0s20f3: associated
+[1458158.157810] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1458179.681634] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1458180.994593] PM: suspend entry (s2idle)
+[1458181.413070] Filesystems sync: 0.418 seconds
+[1458182.626729] Freezing user space processes
+[1458182.628830] Freezing user space processes completed (elapsed 0.002 seconds)
+[1458182.628833] OOM killer disabled.
+[1458182.628834] Freezing remaining freezable tasks
+[1458182.630294] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1458182.630296] printk: Suspending console(s) (use no_console_suspend to debug)
+[1458183.297185] ACPI: EC: interrupt blocked
+[1477296.177787] ACPI: EC: interrupt unblocked
+[1477296.489887] nvme nvme0: D3 entry latency set to 10 seconds
+[1477296.538908] nvme nvme0: 8/0/0 default/read/poll queues
+[1477297.323725] xe 0000:00:02.0: [drm] GT1: excessive init time: 616ms! [status = 0x8002F034, timeouts = 0]
+[1477297.323792] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1477297.898616] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1477297.900109] OOM killer enabled.
+[1477297.900124] Restarting tasks: Starting
+[1477297.907986] Restarting tasks: Done
+[1477297.908360] random: crng reseeded on system resumption
+[1477298.040702] PM: suspend exit
+[1477298.856004] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1477303.212490] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1477303.212827] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1477303.258316] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1477303.258368] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1477303.260547] wlp0s20f3: authenticated
+[1477303.263799] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1477303.267500] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=17)
+[1477303.270771] wlp0s20f3: associated
+[1477303.324156] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1477322.877739] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1477323.242439] PM: suspend entry (s2idle)
+[1477323.627917] Filesystems sync: 0.385 seconds
+[1477324.990334] Freezing user space processes
+[1477324.993461] Freezing user space processes completed (elapsed 0.003 seconds)
+[1477324.993465] OOM killer disabled.
+[1477324.993466] Freezing remaining freezable tasks
+[1477324.995382] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1477324.995385] printk: Suspending console(s) (use no_console_suspend to debug)
+[1477325.310911] ACPI: EC: interrupt blocked
+[1495752.464684] ACPI: EC: interrupt unblocked
+[1495752.777807] nvme nvme0: D3 entry latency set to 10 seconds
+[1495752.828883] nvme nvme0: 8/0/0 default/read/poll queues
+[1495753.589660] xe 0000:00:02.0: [drm] GT1: excessive init time: 573ms! [status = 0x8002F034, timeouts = 0]
+[1495753.589724] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1495753.761390] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1495753.774597] OOM killer enabled.
+[1495753.774612] Restarting tasks: Starting
+[1495753.779126] Restarting tasks: Done
+[1495753.779274] random: crng reseeded on system resumption
+[1495753.955992] PM: suspend exit
+[1495754.999107] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1495759.277766] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1495759.278177] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1495759.313993] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1495759.314044] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1495759.316424] wlp0s20f3: authenticated
+[1495759.321752] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1495759.325727] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=22)
+[1495759.327600] wlp0s20f3: associated
+[1495759.410178] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1495779.728322] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1495780.163358] PM: suspend entry (s2idle)
+[1495780.380040] Filesystems sync: 0.216 seconds
+[1495782.326876] Freezing user space processes
+[1495782.329209] Freezing user space processes completed (elapsed 0.002 seconds)
+[1495782.329216] OOM killer disabled.
+[1495782.329217] Freezing remaining freezable tasks
+[1495782.330871] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1495782.330878] printk: Suspending console(s) (use no_console_suspend to debug)
+[1495782.653132] ACPI: EC: interrupt blocked
+[1516900.207403] ACPI: EC: interrupt unblocked
+[1516900.526198] nvme nvme0: D3 entry latency set to 10 seconds
+[1516900.570564] nvme nvme0: 8/0/0 default/read/poll queues
+[1516901.288799] xe 0000:00:02.0: [drm] GT1: excessive init time: 556ms! [status = 0x8002F034, timeouts = 0]
+[1516901.288863] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1516901.475256] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1516901.486399] OOM killer enabled.
+[1516901.486418] Restarting tasks: Starting
+[1516901.492835] Restarting tasks: Done
+[1516901.493217] random: crng reseeded on system resumption
+[1516901.668688] PM: suspend exit
+[1516902.607618] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1516906.788399] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1516906.788814] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1516906.824083] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1516906.824135] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1516906.828613] wlp0s20f3: authenticated
+[1516906.832604] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1516906.836238] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=18)
+[1516906.838202] wlp0s20f3: associated
+[1516906.848334] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1516927.753053] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1516928.229396] PM: suspend entry (s2idle)
+[1516928.498644] Filesystems sync: 0.269 seconds
+[1516930.704604] Freezing user space processes
+[1516931.236304] BTRFS warning (device dm-1): failed to trim 487 block group(s), last error -512
+[1516931.244229] Freezing user space processes completed (elapsed 0.539 seconds)
+[1516931.244240] OOM killer disabled.
+[1516931.244243] Freezing remaining freezable tasks
+[1516931.246317] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1516931.246327] printk: Suspending console(s) (use no_console_suspend to debug)
+[1516931.678374] ACPI: EC: interrupt blocked
+[1535608.369140] ACPI: EC: interrupt unblocked
+[1535608.692032] nvme nvme0: D3 entry latency set to 10 seconds
+[1535608.732913] nvme nvme0: 8/0/0 default/read/poll queues
+[1535609.457101] xe 0000:00:02.0: [drm] GT1: excessive init time: 527ms! [status = 0x8000F034, timeouts = 0]
+[1535609.457165] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1535609.643426] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1535609.644938] OOM killer enabled.
+[1535609.644951] Restarting tasks: Starting
+[1535609.650912] Restarting tasks: Done
+[1535609.651036] random: crng reseeded on system resumption
+[1535609.816420] PM: suspend exit
+[1535610.794826] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1535614.932248] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1535614.932567] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1535614.968970] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1535614.969023] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1535614.971578] wlp0s20f3: authenticated
+[1535614.975500] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1535614.979138] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=26)
+[1535614.981443] wlp0s20f3: associated
+[1535615.048105] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1535634.796110] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1535635.186824] PM: suspend entry (s2idle)
+[1535635.851315] Filesystems sync: 0.664 seconds
+[1535637.881692] Freezing user space processes
+[1535637.883989] Freezing user space processes completed (elapsed 0.002 seconds)
+[1535637.883997] OOM killer disabled.
+[1535637.883999] Freezing remaining freezable tasks
+[1535637.885976] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1535637.885982] printk: Suspending console(s) (use no_console_suspend to debug)
+[1535638.223610] ACPI: EC: interrupt blocked
+[1536555.058584] ACPI: EC: interrupt unblocked
+[1536555.339692] nvme nvme0: D3 entry latency set to 10 seconds
+[1536555.385760] nvme nvme0: 8/0/0 default/read/poll queues
+[1536555.531202] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1536555.532425] OOM killer enabled.
+[1536555.532429] Restarting tasks: Starting
+[1536555.535906] Restarting tasks: Done
+[1536555.535979] random: crng reseeded on system resumption
+[1536555.606511] PM: suspend exit
+[1536556.129426] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1536559.854050] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1536559.854520] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1536559.890094] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1536559.890102] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1536559.893107] wlp0s20f3: authenticated
+[1536559.895291] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1536559.899440] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=11)
+[1536559.901095] wlp0s20f3: associated
+[1536559.999834] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1548899.045601] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1548900.792180] PM: suspend entry (s2idle)
+[1548901.187726] Filesystems sync: 0.395 seconds
+[1548903.778139] Freezing user space processes
+[1548903.794480] Freezing user space processes completed (elapsed 0.016 seconds)
+[1548903.794489] OOM killer disabled.
+[1548903.794491] Freezing remaining freezable tasks
+[1548903.796560] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1548903.796567] printk: Suspending console(s) (use no_console_suspend to debug)
+[1548904.175088] ACPI: EC: interrupt blocked
+[1553779.013873] ACPI: EC: interrupt unblocked
+[1553779.299412] nvme nvme0: D3 entry latency set to 10 seconds
+[1553779.353805] nvme nvme0: 8/0/0 default/read/poll queues
+[1553779.479446] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1553779.479740] OOM killer enabled.
+[1553779.479744] Restarting tasks: Starting
+[1553779.483209] Restarting tasks: Done
+[1553779.483259] random: crng reseeded on system resumption
+[1553779.563365] PM: suspend exit
+[1553780.816765] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1553784.633827] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1553784.634154] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1553784.679734] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1553784.679742] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1553784.684887] wlp0s20f3: authenticated
+[1553784.685646] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1553784.689157] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=27)
+[1553784.690406] wlp0s20f3: associated
+[1553784.785863] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1553805.685685] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1553806.079084] PM: suspend entry (s2idle)
+[1553806.971490] Filesystems sync: 0.892 seconds
+[1553808.116551] Freezing user space processes
+[1553808.119360] Freezing user space processes completed (elapsed 0.002 seconds)
+[1553808.119363] OOM killer disabled.
+[1553808.119364] Freezing remaining freezable tasks
+[1553808.120781] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1553808.120782] printk: Suspending console(s) (use no_console_suspend to debug)
+[1553808.477005] ACPI: EC: interrupt blocked
+[1554558.559595] ACPI: EC: interrupt unblocked
+[1554558.849668] nvme nvme0: D3 entry latency set to 10 seconds
+[1554558.882499] nvme nvme0: 8/0/0 default/read/poll queues
+[1554559.033675] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1554559.034930] OOM killer enabled.
+[1554559.034936] Restarting tasks: Starting
+[1554559.038625] Restarting tasks: Done
+[1554559.038701] random: crng reseeded on system resumption
+[1554559.102562] PM: suspend exit
+[1554559.613190] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1554563.513900] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1554563.514220] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1554563.551407] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1554563.551424] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1554563.557083] wlp0s20f3: authenticated
+[1554563.561564] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1554563.566481] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=20)
+[1554563.568310] wlp0s20f3: associated
+[1554563.647210] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1554586.159461] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1554586.524931] PM: suspend entry (s2idle)
+[1554586.793833] Filesystems sync: 0.268 seconds
+[1554588.053892] Freezing user space processes
+[1554588.056639] Freezing user space processes completed (elapsed 0.002 seconds)
+[1554588.056642] OOM killer disabled.
+[1554588.056643] Freezing remaining freezable tasks
+[1554588.058021] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1554588.058023] printk: Suspending console(s) (use no_console_suspend to debug)
+[1554588.463702] ACPI: EC: interrupt blocked
+[1561776.358553] ACPI: EC: interrupt unblocked
+[1561776.632419] nvme nvme0: D3 entry latency set to 10 seconds
+[1561776.661619] nvme nvme0: 8/0/0 default/read/poll queues
+[1561776.824846] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1561776.825530] OOM killer enabled.
+[1561776.825534] Restarting tasks: Starting
+[1561776.828913] Restarting tasks: Done
+[1561776.828966] random: crng reseeded on system resumption
+[1561776.925959] PM: suspend exit
+[1561777.456997] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1561781.245025] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1561781.245498] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1561781.278083] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1561781.278093] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1561781.281805] wlp0s20f3: authenticated
+[1561781.285946] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1561781.289603] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=16)
+[1561781.291167] wlp0s20f3: associated
+[1561781.386958] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1562608.431481] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1562610.256227] PM: suspend entry (s2idle)
+[1562610.544588] Filesystems sync: 0.288 seconds
+[1562616.207914] Freezing user space processes
+[1562616.211361] Freezing user space processes completed (elapsed 0.003 seconds)
+[1562616.211371] OOM killer disabled.
+[1562616.211374] Freezing remaining freezable tasks
+[1562616.213370] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1562616.213381] printk: Suspending console(s) (use no_console_suspend to debug)
+[1562616.590167] ACPI: EC: interrupt blocked
+[1574088.646520] ACPI: EC: interrupt unblocked
+[1574088.947605] nvme nvme0: D3 entry latency set to 10 seconds
+[1574088.993064] nvme nvme0: 8/0/0 default/read/poll queues
+[1574089.140574] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1574089.141750] OOM killer enabled.
+[1574089.141754] Restarting tasks: Starting
+[1574089.144349] Restarting tasks: Done
+[1574089.144397] random: crng reseeded on system resumption
+[1574089.228659] PM: suspend exit
+[1574089.815953] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1574093.701149] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1574093.701461] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1574093.737474] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1574093.737502] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1574093.743278] wlp0s20f3: authenticated
+[1574093.745797] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1574093.749565] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=12)
+[1574093.751230] wlp0s20f3: associated
+[1574093.811604] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1574112.270913] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1574112.817558] PM: suspend entry (s2idle)
+[1574113.666896] Filesystems sync: 0.849 seconds
+[1574116.397596] Freezing user space processes
+[1574116.401104] Freezing user space processes completed (elapsed 0.003 seconds)
+[1574116.401114] OOM killer disabled.
+[1574116.401117] Freezing remaining freezable tasks
+[1574116.403227] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1574116.403238] printk: Suspending console(s) (use no_console_suspend to debug)
+[1574116.751241] ACPI: EC: interrupt blocked
+[1592761.508593] ACPI: EC: interrupt unblocked
+[1592761.830385] nvme nvme0: D3 entry latency set to 10 seconds
+[1592761.872908] nvme nvme0: 8/0/0 default/read/poll queues
+[1592762.576500] xe 0000:00:02.0: [drm] GT1: excessive init time: 540ms! [status = 0x8002F034, timeouts = 0]
+[1592762.576566] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1592762.755390] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1592762.756954] OOM killer enabled.
+[1592762.756967] Restarting tasks: Starting
+[1592762.765950] Restarting tasks: Done
+[1592762.766083] random: crng reseeded on system resumption
+[1592762.928903] PM: suspend exit
+[1592763.910901] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1592768.197552] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1592768.197910] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1592768.237419] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1592768.237468] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1592768.239866] wlp0s20f3: authenticated
+[1592768.244408] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1592768.248123] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=22)
+[1592768.249973] wlp0s20f3: associated
+[1592768.352862] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1592787.663040] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1592788.126690] PM: suspend entry (s2idle)
+[1592788.454992] Filesystems sync: 0.328 seconds
+[1592790.542160] Freezing user space processes
+[1592790.553475] Freezing user space processes completed (elapsed 0.011 seconds)
+[1592790.553502] OOM killer disabled.
+[1592790.553505] Freezing remaining freezable tasks
+[1592790.556275] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1592790.556284] printk: Suspending console(s) (use no_console_suspend to debug)
+[1592790.876418] ACPI: EC: interrupt blocked
+[1613785.214734] ACPI: EC: interrupt unblocked
+[1613785.525983] nvme nvme0: D3 entry latency set to 10 seconds
+[1613785.577631] nvme nvme0: 8/0/0 default/read/poll queues
+[1613786.452996] xe 0000:00:02.0: [drm] GT1: excessive init time: 663ms! [status = 0x8002F034, timeouts = 0]
+[1613786.453062] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1613786.638301] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1613786.639810] OOM killer enabled.
+[1613786.639825] Restarting tasks: Starting
+[1613786.649126] Restarting tasks: Done
+[1613786.649250] random: crng reseeded on system resumption
+[1613786.787742] PM: suspend exit
+[1613787.684798] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1613791.760749] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1613791.761390] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1613791.794431] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1613791.794470] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1613791.797070] wlp0s20f3: authenticated
+[1613791.800973] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1613791.804988] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=18)
+[1613791.806499] wlp0s20f3: associated
+[1613791.849315] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1613812.641063] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1613813.135964] PM: suspend entry (s2idle)
+[1613813.639636] Filesystems sync: 0.503 seconds
+[1613816.727573] Freezing user space processes
+[1613816.731028] Freezing user space processes completed (elapsed 0.003 seconds)
+[1613816.731040] OOM killer disabled.
+[1613816.731042] Freezing remaining freezable tasks
+[1613816.733117] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1613816.733127] printk: Suspending console(s) (use no_console_suspend to debug)
+[1613817.082541] ACPI: EC: interrupt blocked
+[1631931.533193] ACPI: EC: interrupt unblocked
+[1631931.848335] nvme nvme0: D3 entry latency set to 10 seconds
+[1631931.888998] nvme nvme0: 8/0/0 default/read/poll queues
+[1631932.731783] xe 0000:00:02.0: [drm] GT1: excessive init time: 623ms! [status = 0x8002F034, timeouts = 0]
+[1631932.731849] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1631932.910716] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1631932.912200] OOM killer enabled.
+[1631932.912212] Restarting tasks: Starting
+[1631932.920023] Restarting tasks: Done
+[1631932.920146] random: crng reseeded on system resumption
+[1631933.064031] PM: suspend exit
+[1631934.049610] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1631938.148213] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1631938.148540] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1631938.185348] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1631938.185403] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1631938.187485] wlp0s20f3: authenticated
+[1631938.192270] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1631938.196358] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=11)
+[1631938.197926] wlp0s20f3: associated
+[1631938.325945] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1631957.674976] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1631958.242108] PM: suspend entry (s2idle)
+[1631958.571416] Filesystems sync: 0.329 seconds
+[1631961.038301] Freezing user space processes
+[1631961.040529] Freezing user space processes completed (elapsed 0.002 seconds)
+[1631961.040536] OOM killer disabled.
+[1631961.040537] Freezing remaining freezable tasks
+[1631961.042171] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1631961.042177] printk: Suspending console(s) (use no_console_suspend to debug)
+[1631961.374016] ACPI: EC: interrupt blocked
+[1649677.340774] ACPI: EC: interrupt unblocked
+[1649677.659851] nvme nvme0: D3 entry latency set to 10 seconds
+[1649677.718762] nvme nvme0: 8/0/0 default/read/poll queues
+[1649678.320402] xe 0000:00:02.0: [drm] GT1: excessive init time: 493ms! [status = 0x8002F034, timeouts = 0]
+[1649678.320468] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1649678.507411] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1649678.509274] OOM killer enabled.
+[1649678.509287] Restarting tasks: Starting
+[1649678.517197] Restarting tasks: Done
+[1649678.517320] random: crng reseeded on system resumption
+[1649678.670181] PM: suspend exit
+[1649679.540158] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1649683.817631] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1649683.817962] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1649683.854375] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1649683.854428] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1649683.860190] wlp0s20f3: authenticated
+[1649683.864343] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1649683.868208] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=15)
+[1649683.874707] wlp0s20f3: associated
+[1649683.972879] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1649704.261687] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1649704.663103] PM: suspend entry (s2idle)
+[1649705.446668] Filesystems sync: 0.783 seconds
+[1649707.558962] Freezing user space processes
+[1649707.561040] Freezing user space processes completed (elapsed 0.002 seconds)
+[1649707.561049] OOM killer disabled.
+[1649707.561051] Freezing remaining freezable tasks
+[1649707.563084] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1649707.563091] printk: Suspending console(s) (use no_console_suspend to debug)
+[1649707.890325] ACPI: EC: interrupt blocked
+[1668702.266491] ACPI: EC: interrupt unblocked
+[1668702.539907] nvme nvme0: D3 entry latency set to 10 seconds
+[1668702.587839] nvme nvme0: 8/0/0 default/read/poll queues
+[1668702.726103] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1668702.727361] OOM killer enabled.
+[1668702.727366] Restarting tasks: Starting
+[1668702.730668] Restarting tasks: Done
+[1668702.730736] random: crng reseeded on system resumption
+[1668702.821815] PM: suspend exit
+[1668703.395159] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1668707.181010] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1668707.181375] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1668707.216049] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1668707.216058] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1668707.219379] wlp0s20f3: authenticated
+[1668707.225397] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1668707.229423] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=16)
+[1668707.231028] wlp0s20f3: associated
+[1668707.313679] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1668729.043987] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1668729.370917] PM: suspend entry (s2idle)
+[1668729.812123] Filesystems sync: 0.441 seconds
+[1668732.683162] Freezing user space processes
+[1668732.686337] Freezing user space processes completed (elapsed 0.003 seconds)
+[1668732.686348] OOM killer disabled.
+[1668732.686351] Freezing remaining freezable tasks
+[1668732.688430] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1668732.688441] printk: Suspending console(s) (use no_console_suspend to debug)
+[1668733.033886] ACPI: EC: interrupt blocked
+[1689932.082503] ACPI: EC: interrupt unblocked
+[1689932.400386] nvme nvme0: D3 entry latency set to 10 seconds
+[1689932.457118] nvme nvme0: 8/0/0 default/read/poll queues
+[1689933.155206] xe 0000:00:02.0: [drm] GT1: excessive init time: 558ms! [status = 0x8002F034, timeouts = 0]
+[1689933.155272] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1689933.338880] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1689933.340742] OOM killer enabled.
+[1689933.340755] Restarting tasks: Starting
+[1689933.347743] Restarting tasks: Done
+[1689933.347901] random: crng reseeded on system resumption
+[1689933.496785] PM: suspend exit
+[1689934.659245] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1689938.714970] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1689938.715304] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1689938.749597] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1689938.749649] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1689938.751889] wlp0s20f3: authenticated
+[1689938.759140] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1689938.762899] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=19)
+[1689938.765653] wlp0s20f3: associated
+[1689938.808562] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1689958.485930] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1689958.967887] PM: suspend entry (s2idle)
+[1689959.249717] Filesystems sync: 0.281 seconds
+[1689961.825840] Freezing user space processes
+[1689961.832167] Freezing user space processes completed (elapsed 0.006 seconds)
+[1689961.832181] OOM killer disabled.
+[1689961.832182] Freezing remaining freezable tasks
+[1689961.834666] Freezing remaining freezable tasks completed (elapsed 0.002 seconds)
+[1689961.834675] printk: Suspending console(s) (use no_console_suspend to debug)
+[1689962.157650] ACPI: EC: interrupt blocked
+[1710914.268434] ACPI: EC: interrupt unblocked
+[1710914.589966] nvme nvme0: D3 entry latency set to 10 seconds
+[1710914.647593] nvme nvme0: 8/0/0 default/read/poll queues
+[1710915.520790] xe 0000:00:02.0: [drm] GT1: excessive init time: 675ms! [status = 0x8002F034, timeouts = 0]
+[1710915.520856] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1710915.706436] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1710915.708420] OOM killer enabled.
+[1710915.708434] Restarting tasks: Starting
+[1710915.720607] Restarting tasks: Done
+[1710915.720756] random: crng reseeded on system resumption
+[1710915.862507] PM: suspend exit
+[1710916.802788] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1710920.970636] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1710920.970962] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1710921.005227] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1710921.005258] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1710921.010447] wlp0s20f3: authenticated
+[1710921.013338] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1710921.017018] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=12)
+[1710921.018453] wlp0s20f3: associated
+[1710921.030788] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1710941.196057] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1710941.616997] PM: suspend entry (s2idle)
+[1710941.973900] Filesystems sync: 0.356 seconds
+[1710944.120728] Freezing user space processes
+[1710944.123104] Freezing user space processes completed (elapsed 0.002 seconds)
+[1710944.123112] OOM killer disabled.
+[1710944.123113] Freezing remaining freezable tasks
+[1710944.124783] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1710944.124789] printk: Suspending console(s) (use no_console_suspend to debug)
+[1710944.465117] ACPI: EC: interrupt blocked
+[1730088.931501] ACPI: EC: interrupt unblocked
+[1730089.244369] nvme nvme0: D3 entry latency set to 10 seconds
+[1730089.287900] nvme nvme0: 8/0/0 default/read/poll queues
+[1730089.987128] xe 0000:00:02.0: [drm] GT1: excessive init time: 531ms! [status = 0x8002F034, timeouts = 0]
+[1730089.987192] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1730090.168044] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1730090.169633] OOM killer enabled.
+[1730090.169646] Restarting tasks: Starting
+[1730090.177065] Restarting tasks: Done
+[1730090.177191] random: crng reseeded on system resumption
+[1730090.338249] PM: suspend exit
+[1730091.241729] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1730095.520524] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1730095.520942] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1730095.556759] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1730095.556810] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1730095.560135] wlp0s20f3: authenticated
+[1730095.564067] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1730095.567844] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=21)
+[1730095.569670] wlp0s20f3: associated
+[1730095.672598] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1730116.094121] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1730116.859714] PM: suspend entry (s2idle)
+[1730117.191386] Filesystems sync: 0.331 seconds
+[1730121.351656] Freezing user space processes
+[1730121.354096] Freezing user space processes completed (elapsed 0.002 seconds)
+[1730121.354103] OOM killer disabled.
+[1730121.354104] Freezing remaining freezable tasks
+[1730121.355847] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1730121.355854] printk: Suspending console(s) (use no_console_suspend to debug)
+[1730121.685478] ACPI: EC: interrupt blocked
+[1747577.371990] ACPI: EC: interrupt unblocked
+[1747577.697208] nvme nvme0: D3 entry latency set to 10 seconds
+[1747577.752298] nvme nvme0: 8/0/0 default/read/poll queues
+[1747578.439491] xe 0000:00:02.0: [drm] GT1: excessive init time: 536ms! [status = 0x8000F034, timeouts = 0]
+[1747578.439554] xe 0000:00:02.0: [drm] GT1: excessive init time: [freq = 100MHz (req = 800MHz), before = 100MHz, perf_limit_reasons = 0x9C009000]
+[1747578.617218] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1747578.619100] OOM killer enabled.
+[1747578.619113] Restarting tasks: Starting
+[1747578.624068] Restarting tasks: Done
+[1747578.624250] random: crng reseeded on system resumption
+[1747578.759942] PM: suspend exit
+[1747579.786600] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1747584.257982] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1747584.258412] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1747584.292663] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1747584.292715] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1747584.294737] wlp0s20f3: authenticated
+[1747584.296413] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1747584.299135] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=17)
+[1747584.300954] wlp0s20f3: associated
+[1747584.375158] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
+[1747602.122637] wlp0s20f3: deauthenticating from d2:06:c3:e4:64:56 by local choice (Reason: 3=DEAUTH_LEAVING)
+[1747602.602184] PM: suspend entry (s2idle)
+[1747602.824728] Filesystems sync: 0.222 seconds
+[1747607.390162] Freezing user space processes
+[1747607.392464] Freezing user space processes completed (elapsed 0.002 seconds)
+[1747607.392470] OOM killer disabled.
+[1747607.392472] Freezing remaining freezable tasks
+[1747607.394392] Freezing remaining freezable tasks completed (elapsed 0.001 seconds)
+[1747607.394398] printk: Suspending console(s) (use no_console_suspend to debug)
+[1747607.717200] ACPI: EC: interrupt blocked
+[1753182.359489] ACPI: EC: interrupt unblocked
+[1753182.633943] nvme nvme0: D3 entry latency set to 10 seconds
+[1753182.668241] nvme nvme0: 8/0/0 default/read/poll queues
+[1753182.826685] mei_gsc_proxy 0000:00:16.0-0f73db04-97ab-4125-b893-e904ad0d5464: bound 0000:00:02.0 (ops xe_gsc_proxy_component_ops [xe])
+[1753182.827309] OOM killer enabled.
+[1753182.827314] Restarting tasks: Starting
+[1753182.830645] Restarting tasks: Done
+[1753182.830697] random: crng reseeded on system resumption
+[1753182.903854] PM: suspend exit
+[1753183.525153] iwlwifi 0000:00:14.3: Sending Phy CFG command: 0x330018
+[1753187.468995] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1753187.469361] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1753187.511308] wlp0s20f3: authenticate with d2:06:c3:e4:64:56 (local address=4c:0f:3e:ab:41:27)
+[1753187.511322] wlp0s20f3: send auth to d2:06:c3:e4:64:56 (try 1/3)
+[1753187.515227] wlp0s20f3: authenticated
+[1753187.518247] wlp0s20f3: associate with d2:06:c3:e4:64:56 (try 1/3)
+[1753187.521907] wlp0s20f3: RX AssocResp from d2:06:c3:e4:64:56 (capab=0x1011 status=0 aid=18)
+[1753187.523188] wlp0s20f3: associated
+[1753187.614480] wlp0s20f3: Limiting TX power to 23 (23 - 0) dBm as advertised by d2:06:c3:e4:64:56
