@@ -6,6 +6,37 @@ This repository was initialized to track log files and related content.
 
 This document describes how this repository was created and pushed to GitHub.
 
+### Prerequisites
+
+Before performing these steps, you need to have the GitHub CLI (`gh`) installed and authenticated:
+
+1. **Install GitHub CLI**
+
+   On Debian/Ubuntu:
+   ```bash
+   sudo apt install gh
+   ```
+
+   On other systems, see: https://github.com/cli/cli#installation
+
+2. **Authenticate with GitHub**
+   ```bash
+   gh auth login
+   ```
+
+   This command will:
+   - Prompt you to select GitHub.com or GitHub Enterprise Server
+   - Ask your preferred authentication method (web browser or token)
+   - Guide you through the authentication flow
+   - Store credentials securely for future use
+
+3. **Verify Authentication**
+   ```bash
+   gh auth status
+   ```
+
+   This confirms you're logged in and shows which account is authenticated.
+
 ### Steps Performed
 
 1. **Initialize Git Repository**
